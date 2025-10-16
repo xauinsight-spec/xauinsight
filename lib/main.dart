@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Background Video Demo',
+      title: 'Background Video Demo 22222 ',
       debugShowCheckedModeBanner: false,
       home: const HomePage(),
     );
